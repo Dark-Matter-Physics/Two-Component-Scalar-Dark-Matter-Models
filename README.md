@@ -1,5 +1,5 @@
 # Two-Component-Scalar-Dark-Matter-Models
-Welcome to the repository for Two-Component Scalar Dark Matter Models, a comprehensive resource dedicated to studying and analyzing two-component scalar dark matter models under Z 2n symmetry. This repository is part of the larger Dark Matter Physics organization, which aims to advance theoretical and computational research in dark matter.
+Welcome to the repository for Two-Component Scalar Dark Matter Models, a comprehensive resource dedicated to studying and analyzing two-component scalar dark matter models under Z2n symmetry. This repository is part of the larger Dark Matter Physics organization, which aims to advance theoretical and computational research in dark matter.
 
 # Repository Overview:
 This repository contains the code, data, and documentation related to our research on two-component scalar dark matter models. Our work focuses on developing and analyzing models incorporating Z2n symmetry, providing insights into the behavior and interactions of dark matter particles.
