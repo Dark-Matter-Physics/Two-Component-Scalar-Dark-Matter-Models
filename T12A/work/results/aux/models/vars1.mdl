@@ -1,0 +1,25 @@
+T12AMaud  % Created by SARAH v4.15.3 (arXiv:0806.0538, 0909.2863, 1002.0840, 1207.0906, 1309.7223, 1405.1434, 1411.0675, 1503.03098, 1703.09237, 1706.05372, 1805.07306) at 8:32 on 11.10.2024
+Parameters  
+ Name               | Value              |> Comment          <|
+WZ                  |2.4952              | width 
+WWp                 |2.141               | width 
+Wd1                 |0                   | width 
+Wd2                 |0                   | width 
+Wd3                 |0                   | width 
+Wu1                 |0                   | width 
+Wu2                 |0                   | width 
+Wu3                 |1.51                | width 
+We1                 |0                   | width 
+We2                 |0                   | width 
+We3                 |0                   | width 
+Wnu1                |0                   | width 
+Wnu2                |0                   | width 
+Wnu3                |0                   | width 
+Maux                |1                   |  
+sqrt2               |1.41421356237310    |  
+Pi                  |3.14159265358979    |  
+Q                   |100                 |  
+alfSMZ              |0.1172              |  
+aS                  |0.119               | Alpha Strong  
+aEWinv              |137.035999679       | inverse weak coupling constant at mZ  
+Gf                  |0.0000116639        | Fermi's constant  

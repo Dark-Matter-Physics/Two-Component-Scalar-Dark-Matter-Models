@@ -1,0 +1,24 @@
+# compiler Flags
+CC = gcc
+CFLAGS = -g -fsigned-char -std=gnu99 -fPIC
+HX11 = 
+LX11 = 
+lDL = -rdynamic -ldl 
+SHARED = -shared
+SONAME = 
+SO = so
+SNUM = -DNUM_LONG_LONG
+
+FC = gfortran 
+FFLAGS = 
+RANLIB = ranlib
+lFort = -lgfortran
+lQuad = 
+CXX=g++    
+CXXFLAGS = -g -fPIC 
+CALCHEP = /home/kal-el-morgan/Escritorio/micromegas_6.1.15/CalcHEP_src
+UNAME = Linux
+LHAPDF = 
+export CC CFLAGS  lDL LX11 SHARED SONAME SO FC FFLAGS RANLIB CXX CXXFLAGS lFort LHAPDF
+
+
